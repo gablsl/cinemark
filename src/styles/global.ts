@@ -7,6 +7,10 @@ export const GlobalStyles = createGlobalStyle`
         box-sizing: border-box;
     }
 
+    body {
+        background: #020617;
+    }
+
     a {
         text-decoration: none;
     }
